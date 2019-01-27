@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.pdb

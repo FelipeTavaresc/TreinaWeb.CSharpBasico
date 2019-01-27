@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.pdb

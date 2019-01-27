@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\bin\Debug\BoxingVSUnboxing.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\bin\Debug\BoxingVSUnboxing.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\bin\Debug\BoxingVSUnboxing.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\obj\Debug\BoxingVSUnboxing.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\obj\Debug\BoxingVSUnboxing.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\BoxingVSUnboxing\obj\Debug\BoxingVSUnboxing.csprojResolveAssemblyReference.cache

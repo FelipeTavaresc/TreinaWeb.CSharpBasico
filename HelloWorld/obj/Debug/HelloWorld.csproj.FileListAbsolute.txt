@@ -1,0 +1,6 @@
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\HelloWorld\obj\Debug\HelloWorld.pdb

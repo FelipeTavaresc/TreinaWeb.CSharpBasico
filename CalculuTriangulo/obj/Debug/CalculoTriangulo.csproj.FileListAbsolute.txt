@@ -1,0 +1,1 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculuTriangulo\obj\Debug\CalculoTriangulo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\bin\Debug\EstudoEstruturasRepeticao.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\bin\Debug\EstudoEstruturasRepeticao.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\bin\Debug\EstudoEstruturasRepeticao.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.frmEstruturasRepeticao.resources
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.Properties.Resources.resources
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.csproj.GenerateResource.Cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoEstruturasRepeticao\obj\Debug\EstudoEstruturasRepeticao.pdb

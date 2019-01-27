@@ -1,0 +1,5 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoRetangulo\bin\Debug\CalculoRetangulo.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoRetangulo\bin\Debug\CalculoRetangulo.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoRetangulo\bin\Debug\CalculoRetangulo.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoRetangulo\obj\Debug\CalculoRetangulo.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoRetangulo\obj\Debug\CalculoRetangulo.pdb

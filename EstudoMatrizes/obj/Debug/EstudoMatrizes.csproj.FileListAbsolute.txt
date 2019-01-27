@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.pdb

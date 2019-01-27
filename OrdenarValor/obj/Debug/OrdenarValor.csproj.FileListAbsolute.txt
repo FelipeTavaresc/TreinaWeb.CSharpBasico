@@ -1,0 +1,5 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\OrdenarValor\bin\Debug\OrdenarValor.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\OrdenarValor\bin\Debug\OrdenarValor.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\OrdenarValor\bin\Debug\OrdenarValor.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\OrdenarValor\obj\Debug\OrdenarValor.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\OrdenarValor\obj\Debug\OrdenarValor.pdb

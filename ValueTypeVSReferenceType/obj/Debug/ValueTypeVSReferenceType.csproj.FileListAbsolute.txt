@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\bin\Debug\ValueTypeVSReferenceType.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\bin\Debug\ValueTypeVSReferenceType.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\bin\Debug\ValueTypeVSReferenceType.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\obj\Debug\ValueTypeVSReferenceType.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\obj\Debug\ValueTypeVSReferenceType.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\ValueTypeVSReferenceType\obj\Debug\ValueTypeVSReferenceType.pdb

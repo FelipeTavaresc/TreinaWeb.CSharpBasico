@@ -1,0 +1,9 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\bin\Debug\EstudoSwitch.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\bin\Debug\EstudoSwitch.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\bin\Debug\EstudoSwitch.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.frm.resources
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.Properties.Resources.resources
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.csproj.GenerateResource.Cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\EstudoSwitch\obj\Debug\EstudoSwitch.pdb

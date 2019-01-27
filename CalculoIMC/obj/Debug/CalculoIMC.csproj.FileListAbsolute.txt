@@ -1,0 +1,6 @@
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\obj\Debug\CalculoIMC.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\felip\documents\visual studio 2013\Projects\TreinaWeb.CSharpBasico\CalculoIMC\obj\Debug\CalculoIMC.pdb
